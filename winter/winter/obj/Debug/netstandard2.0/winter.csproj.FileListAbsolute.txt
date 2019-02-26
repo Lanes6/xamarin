@@ -1,0 +1,12 @@
+C:\Users\Lanes\source\repos\winter\winter\winter\bin\Debug\netstandard2.0\winter.deps.json
+C:\Users\Lanes\source\repos\winter\winter\winter\bin\Debug\netstandard2.0\winter.dll
+C:\Users\Lanes\source\repos\winter\winter\winter\bin\Debug\netstandard2.0\winter.pdb
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.csprojAssemblyReference.cache
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.csproj.CoreCompileInputs.cache
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.AssemblyInfoInputs.cache
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.AssemblyInfo.cs
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.dll
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\winter.pdb
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Lanes\source\repos\winter\winter\winter\obj\Debug\netstandard2.0\XamlC.stamp
